@@ -1,0 +1,1 @@
+print('Bazzinga2!\nPetya')
