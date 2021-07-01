@@ -1,4 +1,4 @@
-# Displays message to standard output in multiline lines
+ # Displays message to standard output in multiline lines
 print("System Failiure Iminent!")
 print("System reboot has been initiated")
 print()
