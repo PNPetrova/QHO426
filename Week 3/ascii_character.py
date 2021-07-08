@@ -3,9 +3,9 @@ print("Program Started!")
 print("Please enter an ascii code:")
 code = int(input())
 
-if (code >= 32 and code <= 126):
+if code in range(32,126):
  print("The character represented by the ascii value {} is: {}".format(code, chr(code)))
 else:
-  print("Not recognized")
-
+  print("Invalid code")
+  
 print("Program Ended")
